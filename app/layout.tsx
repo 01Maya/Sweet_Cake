@@ -5,7 +5,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Sweet Cake Shop',
-  description: 'Created with v0',
+  description: 'Home-Baked Treats, Freshly Crafted with Love',
 }
 
 export default function RootLayout({
