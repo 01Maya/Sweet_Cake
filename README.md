@@ -1,5 +1,5 @@
 ---
-# 🍰 Sweet Cakes – Home-Baked Treats Website
+# 🍰 Sweet Cakes – Home-Baked Treats Website 🎂
 
 A modern, elegant, and responsive bakery website showcasing **handcrafted cakes and cupcakes**. Built with **Next.js, Tailwind CSS, Framer Motion, and ShadCN UI**, this project highlights smooth animations, interactive sections, and a pastel-themed design.
 
