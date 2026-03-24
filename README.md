@@ -5,7 +5,7 @@ A modern, elegant, and responsive bakery website showcasing **handcrafted cakes 
 
 ---
 
-## ✨ Features
+## ✨ Features ⚡️
 - 🎂 Beautiful landing page with hero section  
 - 🖼️ Gallery of latest creations & signature cakes  
 - 📊 Stats counter for journey milestones  
