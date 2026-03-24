@@ -17,7 +17,7 @@ A modern, elegant, and responsive bakery website showcasing **handcrafted cakes 
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack 🍫
 - **Next.js** – React framework for modern web apps  
 - **Tailwind CSS** – Utility-first styling  
 - **Framer Motion** – Animations & transitions  
